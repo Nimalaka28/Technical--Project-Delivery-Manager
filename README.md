@@ -1,204 +1,156 @@
-# 🏦 BFSI Technical Project Delivery Portfolio
+# 👋 Hello, I'm a Technical Project Manager
 
-## 👋 Technical Project Delivery Manager | Banking & Payments | Digital Transformation
+### Technical Project Manager | 16+ Years IT Experience | Banking & Payments | Digital Transformation | Agile Delivery
 
-Welcome to my professional portfolio.
+I am a **Technical Project Manager / Delivery Manager** with 16+ years of IT experience, specializing in **Banking, BFSI, Payments and Digital Transformation**.
 
-I am a **Technical Project / Delivery Manager with 15+ years of IT experience**, specializing in **Banking & Financial Services (BFSI), Payments, Digital Banking, Digital Transformation and technology-driven project delivery**.
-
-This portfolio demonstrates my approach to managing complex technology initiatives from **planning and execution through governance, risk management, technical coordination, release and production delivery**.
+I focus on delivering complex technology programs involving **digital banking, payment platforms, customer onboarding, core banking transformation, SWIFT/ISO 20022, cross-border payments, APIs, mobile banking, cloud and ServiceNow ITOM**.
 
 ---
 
-## 💼 Core BFSI Expertise
+## 🏦 Professional Expertise
 
-* 🏦 Banking & Financial Services
-* 💳 Payments & Payment Gateway Integration
-* 🌍 Cross-Border Payments
-* 🔄 Digital Transformation
-* 📱 Digital Banking – Mobile & Web Channels
-* 👤 Digital Customer Onboarding
-* 💰 CASA / Account Servicing
-* 🔐 Payment Security & Compliance
-* 🌐 SWIFT & ISO 20022
-* ⚡ Agile / Scrum Delivery
-
----
-
-## 🚀 Technical Project Delivery
-
-My delivery approach covers the complete project lifecycle:
-
-**Business Requirement → Planning → Estimation → Technical Coordination → Development → Integration → Testing → UAT → Release → Go-Live → Production Support → Continuous Improvement**
-
-Key delivery responsibilities include:
-
-* Project planning and execution
-* Scope, timeline and milestone management
-* Technical team coordination
-* Stakeholder and vendor management
-* RAID management
-* Risk and dependency management
-* Release and deployment planning
-* Governance and status reporting
-* Issue escalation and resolution
-* UAT and production readiness
-* Go-Live and hypercare management
+* Banking & BFSI Digital Transformation
+* Digital Banking & Customer Onboarding
+* Payments & Payment Gateway Integration
+* SWIFT / ISO 20022
+* Cross-Border Payments
+* Core Banking Migration & Transformation
+* Digital Wallet & Mobile Banking
+* API & Microservices Integration
+* ServiceNow ITOM / ITSM
+* AWS & Azure Hybrid Cloud
+* Agile / Scrum Delivery
+* Project & Program Governance
+* RAID, Risk & Dependency Management
+* Stakeholder & Vendor Management
+* Release, Go-Live & Hypercare Management
 
 ---
 
-## 📊 Project Governance
+## 📂 Portfolio Projects
 
-### Key Project Management Artifacts
+### 💳 1. Payment Gateway — BFSI Project Delivery
 
-* Project Charter
-* Project Plan
-* RAID Log
-* RACI Matrix
-* Dependency Tracker
-* Risk Register
-* Issue Log
-* Communication Plan
-* Release Plan
-* Status Dashboard
-* Steering Committee Updates
-* Go-Live Checklist
-* Lessons Learned
+End-to-end sample payment gateway transformation covering payment processing, API integration, security, PCI DSS, 3DS, EMV, Agile delivery and project governance.
+
+👉 [View Payment Gateway Project](./payment-gateway-project.md)
+
+---
+
+### 📱 2. Digital Banking & Customer Onboarding
+
+Sample digital onboarding platform covering KYC, identity verification, CASA account opening, API integration, security, testing and Go-Live.
+
+👉 [View Digital Banking Project](./digital-banking-customer-onboarding.md)
+
+---
+
+### 🌐 3. SWIFT / ISO 20022 & Cross-Border Payments
+
+Sample international payments transformation covering payment lifecycle, ISO 20022 messaging, payment processing, API integration, reconciliation, compliance and operational controls.
+
+👉 [View SWIFT / ISO 20022 Project](./swift-iso20022-cross-border-payments.md)
+
+---
+
+### 🏦 4. Core Banking Migration & Digital Transformation
+
+Sample core banking transformation covering legacy assessment, data migration, integration, reconciliation, testing, cutover, business readiness and stabilization.
+
+👉 [View Core Banking Project](./core-banking-migration-digital-transformation.md)
+
+---
+
+### 💰 5. Digital Wallet & Mobile Banking
+
+Sample mobile banking and digital wallet transformation covering mobile security, wallet transactions, payment gateway integration, APIs, notifications, fraud controls and Agile delivery.
+
+👉 [View Digital Wallet Project](./digital-wallet-mobile-banking.md)
+
+---
+
+### ☁️ 6. ServiceNow ITOM & Hybrid Cloud Transformation
+
+Sample enterprise technology transformation covering ServiceNow ITOM, CMDB, Discovery, Service Mapping, Event Management, AWS/Azure integration and ITSM processes.
+
+👉 [View ServiceNow ITOM Project](./servicenow-itom-hybrid-cloud-transformation.md)
+
+---
+
+## 🛠️ Technology & Tools
+
+**Project Management:**
+Jira | Confluence | MS Project | Agile / Scrum
+
+**Banking & Payments:**
+Digital Banking | Payments | Payment Gateway | SWIFT | ISO 20022 | Cross-Border Payments | Digital Wallet
+
+**Integration & Architecture:**
+REST APIs | Microservices | API Gateway | Middleware | System Integration
+
+**Cloud & Platforms:**
+AWS | Azure | ServiceNow ITOM | ServiceNow ITSM | CMDB
+
+**Security & Compliance:**
+PCI DSS | EMV | 3DS | KYC | AML | GDPR | Information Security
+
+---
+
+## 📊 Project Delivery Approach
+
+**Discover → Plan → Design → Integrate → Build → Test → Validate → Release → Go-Live → Hypercare → BAU**
 
 ### Delivery Focus
 
-**Scope | Schedule | Cost | Quality | Risk | Dependencies | Stakeholders | Delivery**
+* Scope & milestone management
+* Technical delivery coordination
+* RAID management
+* Risk & issue mitigation
+* Dependency management
+* Stakeholder communication
+* Vendor coordination
+* Agile governance
+* Quality & testing
+* Production readiness
+* Go-Live management
+* Executive reporting
 
 ---
 
-## 💳 Payments & Digital Banking
+## 📈 Key Delivery Metrics
 
-Portfolio areas include sample implementations and project artifacts related to:
+Typical delivery metrics I focus on include:
 
-* Payment Gateway Integration
-* Digital Wallet
-* Card & Payment Processing
-* Cross-Border Payments
-* SWIFT
-* ISO 20022
-* Mobile Banking
-* Internet Banking
-* Customer Onboarding
-* Account Servicing
-* API Integration
-* RESTful APIs
-* Microservices
+* Delivery milestone achievement
+* Sprint velocity
+* Defect trends
+* API / platform availability
+* UAT completion
+* Production deployment success
+* Critical defects at Go-Live
+* Risk and dependency closure
+* Customer / business adoption
+* Operational stability
 
 ---
 
-## ⚡ Agile Delivery
+## 👨‍💼 Technical Project Manager Value
 
-Experienced in Agile/Scrum delivery practices including:
+My approach combines **business understanding, technical coordination and delivery governance** to ensure complex technology programs are delivered with clear ownership, controlled risks and measurable outcomes.
 
-* Sprint Planning
-* Backlog Management
-* Product Backlog
-* User Stories
-* Estimation
-* Sprint Review
-* Retrospective
-* Daily Stand-up
-* Velocity Tracking
-* Burndown Tracking
-* Release Planning
-* Dependency Management
-
-**Agile Delivery Cycle:**
-
-**Backlog → Prioritization → Planning → Sprint Execution → Review → Retrospective → Release**
+**Successful Technology Delivery = Business Value + Technology + Integration + Security + Agile Execution + Governance**
 
 ---
 
-## 🛠️ Tools & Technology Exposure
 
-### Project & Delivery Tools
-
-* Jira
-* Azure DevOps
-* Rally
-* Confluence
-* MS Project
-
-### Technology
-
-* REST APIs
-* Microservices
-* Payment Gateway
-* Digital Banking Platforms
-* Mobile & Web Applications
-* API Integration
-* Cloud Technology Exposure – AWS / Azure
-* ServiceNow ITOM / ITSM
-
-### Security & Compliance Exposure
-
-* PCI DSS
-* EMV
-* 3DS
-* ISO 27001
-* GDPR
-* FATCA
+**GitHub Portfolio:**
+This repository contains sample BFSI and technology transformation case studies demonstrating my technical project and delivery management capabilities.
 
 ---
 
-## 📁 Portfolio Projects
+## ⚠️ Disclaimer
 
-This repository will contain practical, sample-based project artifacts demonstrating technical project and delivery management capabilities.
+All projects in this repository are **sample portfolio case studies** created for demonstration purposes.
 
-Planned portfolio areas include:
-
-1. **BFSI Technical Project Delivery**
-2. **Payment Gateway Integration**
-3. **Digital Banking & Customer Onboarding**
-4. **Cross-Border Payments**
-5. **SWIFT / ISO 20022**
-6. **Agile / Scrum Delivery**
-7. **RAID & Risk Management**
-8. **API Integration Project**
-9. **Digital Transformation**
-10. **Project Governance & Delivery Dashboard**
-
----
-
-## 🎯 Delivery Philosophy
-
-> **Plan clearly. Communicate proactively. Manage risks early. Align technology with business outcomes. Deliver with quality.**
-
-I focus on creating transparency across **business, technology, vendors and stakeholders**, while proactively managing risks, dependencies and delivery challenges.
-
----
-
-## 🌍 Career Focus
-
-Open to global opportunities in:
-
-* Technical Project Management
-* Technical Program Management
-* Project Delivery Management
-* Senior Project Management
-* Technical Delivery Management
-* Digital Transformation
-* Banking Technology
-* Payments Technology
-* Digital Banking
-
-**Target Domains:** BFSI | Banking | Payments | FinTech | Digital Transformation
-
----
-
-## ⚠️ Portfolio Disclaimer
-
-All examples, project artifacts, diagrams and data in this portfolio are **sample/dummy representations created for demonstration purposes**.
-
-No confidential, proprietary or client-sensitive information is included.
-
----
-
-### 🤝 Let's Connect
-
-I am interested in connecting with professionals and organizations working in **Banking Technology, Payments, Digital Transformation and Global IT Delivery**.
+Architecture, metrics, processes and project information are illustrative. No confidential, proprietary or client-sensitive information is included.
